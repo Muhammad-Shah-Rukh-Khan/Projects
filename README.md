@@ -1,5 +1,4 @@
 # Online Sales Data Dashboard
----
 This project showcases an Interactive Power BI Dashboard developed to analyze and monitor online sales data for a freelance client. It provides a user-friendly, data-driven interface to extract insights, monitor trends, and perform in-depth analysis of sales metrics. Key features include advanced drill-down capabilities, customizable visualizations, and a variety of filters and slicers that empower users to explore data in real time.
 
 ###Project Overview
