@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/75e528ca-4373-4eb1-8aca-1773336e2e5a)
 
-# Online Sales Data Dashboard
+# Sales Data Dashboard
 This project showcases an Interactive Power BI Dashboard developed to analyze and monitor sales data for a freelance client. It provides a user-friendly, data-driven interface to extract insights, monitor trends, and perform in-depth analysis of sales metrics. Key features include advanced drill-down capabilities, customizable visualizations, and a variety of filters and slicers that empower users to explore data deeply.
 
 ## Project Overview
